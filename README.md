@@ -9,6 +9,7 @@ This is a basic n8n deployment that serves as an automation backend for other ap
 ## Access
 
 Live instance: `https://n8n-ceaw.onrender.com`
+Self Made Market Place: `https://ai-automation-explorer.lovable.app`
 
 ## Usage
 
